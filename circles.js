@@ -9,5 +9,16 @@ function drawCircle(x, y, radius, width, color)
     ctx.stroke();
 }
 
-drawCircle(50, 50, 20, 5, "blue");
-drawCircle(100, 100, 24, 8, "green");
+drawCircle(100, 100, 20, 8, "green");
+drawCircle(100, 100, 24, 8, "yellow");
+drawCircle(100, 100, 15, 8, "red");
+drawCircle(100, 100, 18, 8, "blue");
+drawCircle(100, 100, 26, 8, "red");
+drawCircle(100, 100, 28, 8, "blue");
+drawCircle(100, 100, 30, 8, "pink");
+drawCircle(100, 100, 33, 8, "black");
+drawCircle(100, 100, 36, 8, "purple");
+drawCircle(100, 100, 100, 8, "blue");
+drawCircle(100, 100, 90, 8, "yellow");
+drawCircle(100, 100, 80, 8, "brown");
+drawCircle(100, 100, 70, 8, "pink");
